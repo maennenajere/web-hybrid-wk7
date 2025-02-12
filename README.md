@@ -27,4 +27,4 @@ Task manager using `useReducer` for state management.
     npm start
     ```
 
-4. Test on an emulator or device with Expo Go.
+4. Test the app using an emulator or physical device with Expo Go.
